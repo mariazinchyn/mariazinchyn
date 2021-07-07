@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mariazinchyn
-- 👀 I’m interested in compuer science, history, books, fashion illustration and art.
+- 👀 I’m interested in computer science, history, books, fashion illustration and art.
 - 🌱 I’m currently learning Java and Web development
-- 💞️ I’m looking to collaborate on ...
+//- 💞️ I’m looking to collaborate on ...
 - 📫 https://www.linkedin.com/in/mariazinchyn/
 
 <!---
